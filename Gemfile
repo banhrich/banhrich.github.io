@@ -6,3 +6,6 @@ gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
+group :jekyll_plugins do
+   gem "jekyll-livereload"
+end
