@@ -5,7 +5,7 @@ description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-background_image:   /images/bg3.jpg
+background_image:   /images/background_crop2.png
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
 
@@ -68,4 +68,5 @@ jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
+include: [team]
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
