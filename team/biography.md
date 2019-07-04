@@ -69,7 +69,7 @@ sitemap:
       <img src="/team/photos/Jingjing_Huang.jpg">
     </div>
     <p>
-      I am interested about biological process simulations, and I want to learn any related knowledge and technologies. On the side, I like reading, watching movies (some cartoons are very appealing to me, such as One Piece, Spirited Away, Castle in the Sky, etc.),  and traveling. I think I am good at drawing, and I guess I may have some kind of talents at designing. Oh, I also like sports, for example, basketball, table tennis, badminton and tennis. When I graduate, I want to continue my research and and to try out many other things.
+      Hello~~~ I’m a PhD student in the Biochemistry Department. I’m from China. I have been studying the structure and function of membrane proteins. I like reading, watching anime, Netflix, sleeping, and swimming. More importantly, I like eating cheap but decent food; lying in bed while emptying my mind; staring at the lake and skyscraper from the lab; killing time by counting the number of cars on the street from PGCRL (21st). More and more importantly, I often spend lots of time dreaming about my future.
     </p>
   </div>
 </div>
@@ -119,12 +119,30 @@ sitemap:
   <h2 > Andrea Guljas </h2>
 </div>
 
-<div id='lamia_hossain'>
-  <h2 > Lamia Hossain </h2>
+<div id='lamia_hossain' class="content">
+  <div class="text">
+    <h2><strong>Lamia Hossain</strong></h2>
+    <div class="content">
+      <img src="/team/photos/Lamia_Hossain.jpg">
+      <img src="/team/photos/ELP2_thumbnail.png">
+    </div>
+    <p>
+      Hello and welcome to our lab! I did my undergrad at McMaster in biochemistry and having been unsure of my career, I wanted to try something completely different; which is why I joined a computer simulation lab. Currently, I am hoping to join a biotech/pharmaceutical company in California after my graduate studies. I may or may not be a little obsessed with Paris (spot the 7 Eiffel Tower stuff if you ever come by my desk), tiramisu, creme brulee and gory murder mystery books!
+    </p>
+  </div>
 </div>
 
-<div id='richard_banh'>
-  <h2 > Richard Banh </h2>
+<div id='richard_banh' class="content">
+  <div class="text">
+    <h2><strong>Richard Banh</strong></h2>
+    <div class="content">
+      <img src="/team/photos/Richard_Banh.png">
+      <img src="/team/photos/HV1.png">
+    </div>
+    <p>
+      Bonjour! I completed my BSc at the University of Toronto specializing in Biochemistry. Despite my academic background, I am computer enthusiast who is interested contributing to serveral research fields by applying computational tools. In my spare time, you can find me starting new computer-related projects, playing video games, upgrading my personal computer rig, or running by the lake as the sun rises.
+    </p>
+  </div>
 </div>
 
 <div id='fangwei_chang'>
@@ -137,7 +155,5 @@ sitemap:
 
 
 
-
-<div id='christopher_ing'>
-  <h2 > Christopher Ing </h2>
-</div>
+<h1 style="text-align: center;"> Alumni </h1>
+Under Construction

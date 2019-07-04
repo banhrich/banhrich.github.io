@@ -38,6 +38,8 @@ sitemap:
   display: block;
   margin-left: auto;
   margin-right: auto;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .column {
@@ -164,7 +166,7 @@ sitemap:
   <div class="column">
     <div class="card card-deck">
       <div class="container">
-        <img class="centered-and-cropped" src="/team/photos/Jingjing_Huang.jpg">
+        <img class="centered-and-cropped" src="/team/photos/Jingjing_Huang.jpg" style="object-position: 100% 0;">
         <!-- OPTIONAL HOVER STUFF -->
         <div class="overlay">
           <a href="{{ "/team/biography/#jingjing_huang" | absolute_url }}">
@@ -219,7 +221,7 @@ sitemap:
     <div class="column">
       <div class="card card-deck">
         <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/Ananya_Srivastava.jpg">
+          <img class="centered-and-cropped" src="/team/photos/Ananya_Srivastava.jpg" style="object-position: 75% 0;">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
             <a href="{{ "/team/biography/#ananya_srivastava" | absolute_url }}">
@@ -241,7 +243,7 @@ sitemap:
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay" style="clip-path: inset(0px 0px 0px 0px)">
             <a href="{{ "/team/biography/#anna_liang" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/LIMP2.png">
+              <img class="centered-and-cropped" src="/team/photos/LIMP2.png"  style="object-position: 0% 50%;">
             </a>
           </div>
           <!-- ENDS HERE -->
@@ -273,11 +275,11 @@ sitemap:
     <div class="column">
       <div class="card card-deck">
         <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/default.png">
+          <img class="centered-and-cropped" src="/team/photos/Lamia_Hossain.jpg" style="object-position: 0% 50;">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
-            <a href="{{ "/team/" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+            <a href="{{ "/team/biography/#lamia_hossain" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/ELP2_thumbnail.png">
             </a>
           </div>
           <!-- ENDS HERE -->
