@@ -170,7 +170,7 @@ sitemap:
         <!-- OPTIONAL HOVER STUFF -->
         <div class="overlay">
           <a href="{{ "/team/biography/#jingjing_huang" | absolute_url }}">
-            <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+            <img class="centered-and-cropped" src="/team/photos/mol_jj.png">
           </a>
         </div>
         <!-- ENDS HERE -->
@@ -188,7 +188,7 @@ sitemap:
         <!-- OPTIONAL HOVER STUFF -->
         <div class="overlay">
           <a href="{{ "/team/biography/#zhi_zeng" | absolute_url }}">
-            <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+            <img class="centered-and-cropped" src="/team/photos/cftr.png">
           </a>
         </div>
         <!-- ENDS HERE -->
@@ -203,11 +203,11 @@ sitemap:
     <div class="column">
       <div class="card card-deck">
         <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/default.png">
+          <img class="centered-and-cropped" src="/team/photos/Quang_Huynh.jpg">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
-            <a href="{{ "/team/" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+            <a href="{{ "/team/biography/#quang_huynh" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/mol_quang.png">
             </a>
           </div>
           <!-- ENDS HERE -->
@@ -225,7 +225,7 @@ sitemap:
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
             <a href="{{ "/team/biography/#ananya_srivastava" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+              <img class="centered-and-cropped" src="/team/photos/mol_ananya.png">
             </a>
           </div>
           <!-- ENDS HERE -->
@@ -261,7 +261,7 @@ sitemap:
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
             <a href="{{ "/team/biography/#andrea_guljas" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+              <img class="centered-and-cropped" src="/team/photos/mol_andrea.png">
             </a>
           </div>
           <!-- ENDS HERE -->
@@ -279,7 +279,7 @@ sitemap:
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
             <a href="{{ "/team/biography/#lamia_hossain" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/ELP2_thumbnail.png">
+              <img class="centered-and-cropped" src="/team/photos/mol_lamia.png">
             </a>
           </div>
           <!-- ENDS HERE -->
@@ -296,7 +296,7 @@ sitemap:
           <img class="centered-and-cropped" src="/team/photos/Richard_Banh.png">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
-            <a href="{{ "/team/" | absolute_url }}">
+            <a href="{{ "/team/biography/#richard_banh" | absolute_url }}">
               <img class="centered-and-cropped" src="/team/photos/HV1.png">
             </a>
           </div>
@@ -329,11 +329,11 @@ sitemap:
     <div class="column">
       <div class="card card-deck">
         <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/default.png">
+          <img class="centered-and-cropped" src="/team/photos/fei_wang.jpg">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
-            <a href="{{ "/team/" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+            <a href="{{ "/team/biography/#fei_wang" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/stats.png">
             </a>
           </div>
           <!-- ENDS HERE -->
@@ -350,32 +350,32 @@ sitemap:
 </header>
 
 <ul class="subMenu">
-  <li><a href="">Aditi Ramesh - MSc</a></li>
-  <li><a href="">Adrian Levine - Researcher</a></li>
-  <li><a href="">Ana Nikolic - Researcher</a></li>
-  <li><a href="">Ching-Hsing Yu - Researcher</a></li>
-  <li><a href="">Christopher Ing - PhD</a></li>
-  <li><a href="">Chris Madill - PhD</a></li>
-  <li><a href="">Chris Neale - PhD</a></li>
-  <li><a href="">David Caplan - MSc</a></li>
-  <li><a href="">Elisa Fadda - Postdoctoral Fellow</a></li>
-  <li><a href="">Ellen Li - Researcher</a></li>
-  <li><a href="">Grace Li - Ph.D.</a></li>
-  <li><a href="">Howard Wu - Researcher</a></li>
-  <li><a href="">John Holyoake - Postdoctoral Fellow</a></li>
-  <li><a href="">Joshua Charkow - Researcher</a></li>
-  <li><a href="">Kethika Kulleperuma - PhD</a></li>
-  <li><a href="">Loan Huynh - Postdoctoral Fellow</a></li>
-  <li><a href="">Marty Kurylowicz - PhD</a></li>
-  <li><a href="">Nick Wang - Researcher</a></li>
-  <li><a href="">Nilu Chakrabarti - Postdoctoral Fellow</a></li>
-  <li><a href="">Nisha Patel - Researcher</a></li>
-  <li><a href="">Rachel Ko - Researcher</a></li>
-  <li><a href="">Rowan Henry - MSc</a></li>
-  <li><a href="">Sarah Rauscher - PhD</a></li>
-  <li><a href="">Stéphanie Baud - Postdoctoral Fellow</a></li>
-  <li><a href="">Tom Rodinger - PhD</a></li>
-  <li><a href="">Zhuyi Xue - MSc</a></li>
+  <li><a href="{{ "/team/biography/#aditi_ramesh" | absolute_url }}">Aditi Ramesh - MSc</a></li>
+  <li>Adrian Levine - Researcher</li>
+  <li><a href="{{ "/team/biography/#anna_nikolic" | absolute_url }}">Ana Nikolic - Researcher</a></li>
+  <li><a href="{{ "/team/biography/#ching-hsing_yu" | absolute_url }}">Ching-Hsing Yu - Researcher</a></li>
+  <li><a href="{{ "/team/biography/#christopher_ing" | absolute_url }}">Christopher Ing - PhD</a></li>
+  <li><a href="{{ "/team/biography/#chris_madill" | absolute_url }}">Chris Madill - PhD</a></li>
+  <li><a href="{{ "/team/biography/#chris_neale" | absolute_url }}">Chris Neale - PhD</a></li>
+  <li><a href="{{ "/team/biography/#david_caplan" | absolute_url }}">David Caplan - MSc</a></li>
+  <li><a href="{{ "/team/biography/#elisa_fadda" | absolute_url }}">Elisa Fadda - Postdoctoral Fellow</a></li>
+  <li><a href="{{ "/team/biography/#ellen_li" | absolute_url }}">Ellen Li - Researcher</a></li>
+  <li><a href="{{ "/team/biography/#grace_li" | absolute_url }}">Grace Li - Ph.D.</a></li>
+  <li><a href="{{ "/team/biography/#howard_wu" | absolute_url }}">Howard Wu - Researcher</a></li>
+  <li>John Holyoake - Postdoctoral Fellow</li>
+  <li>Joshua Charkow - Researcher</li>
+  <li>Kethika Kulleperuma - PhD</li>
+  <li><a href="{{ "/team/biography/#loan_huynh" | absolute_url }}">Loan Huynh - Postdoctoral Fellow</a></li>
+  <li><a href="{{ "/team/biography/#marty_kurylowicz" | absolute_url }}">Marty Kurylowicz - PhD</a></li>
+  <li><a href="{{ "/team/biography/#nick_wang" | absolute_url }}">Nick Wang - Researcher</a></li>
+  <li><a href="{{ "/team/biography/#nilu_chakrabarti" | absolute_url }}">Nilu Chakrabarti - Postdoctoral Fellow</a></li>
+  <li>Nisha Patel - Researcher</li>
+  <li><a href="{{ "/team/biography/#rachel_ko" | absolute_url }}">Rachel Ko - Researcher</a></li>
+  <li><a href="{{ "/team/biography/#rowan_henry" | absolute_url }}">Rowan Henry - MSc</a></li>
+  <li><a href="{{ "/team/biography/#sarah_rauscher" | absolute_url }}">Sarah Rauscher - PhD</a></li>
+  <li><a href="{{ "/team/biography/#stephanie_baud" | absolute_url }}">Stéphanie Baud - Postdoctoral Fellow</a></li>
+  <li><a href="{{ "/team/biography/#tom_rodinger" | absolute_url }}">Tom Rodinger - PhD</a></li>
+  <li><a href="{{ "/team/biography/#zhuyi_xue" | absolute_url }}">Zhuyi Xue - MSc</a></li>
 </ul>
 
 <h2 style="text-align: left;"> Positions </h2>
