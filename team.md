@@ -311,11 +311,11 @@ sitemap:
     <div class="column">
       <div class="card card-deck">
         <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/default.png">
+          <img class="centered-and-cropped" src="/team/photos/Fangwei_Chang.jpg">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
-            <a href="{{ "/team/" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/default_mol.png">
+            <a href="{{ "/team/biography/#fangwei_chang" | absolute_url }}">
+              <img class="centered-and-cropped" src="/team/photos/aB_rendered.png">
             </a>
           </div>
           <!-- ENDS HERE -->
