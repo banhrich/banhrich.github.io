@@ -38,7 +38,7 @@ sitemap:
   display: block;
   margin-left: auto;
   margin-right: auto;
-  background-position: center center;
+  background-position: bottom center;
   background-repeat: no-repeat;
 }
 
@@ -166,7 +166,7 @@ sitemap:
   <div class="column">
     <div class="card card-deck">
       <div class="container">
-        <img class="centered-and-cropped" src="/team/photos/Jingjing_Huang.jpg" style="object-position: 100% 0;">
+        <img class="centered-and-cropped" src="/team/photos/Jingjing_Huang.jpg">
         <!-- OPTIONAL HOVER STUFF -->
         <div class="overlay">
           <a href="{{ "/team/biography/#jingjing_huang" | absolute_url }}">
