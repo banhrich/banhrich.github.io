@@ -186,7 +186,7 @@ sitemap:
     <h2><strong>Fei Wang</strong></h2>
     <div class="content">
       <img src="/team/photos/fei_wang.jpg">
-      <!--img src="/team/photos/HV1.png"-->
+      <img src="/team/photos/mol_fei.png">
     </div>
     <p>
       Hi! I am a statistics student at the University of Toronto. I enjoy various stuff like playing the piano, ice-skating, poems and rock music. I also like talking to parrots and wish to keep a parrot and a large dog at the same time!

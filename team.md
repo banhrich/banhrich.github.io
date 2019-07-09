@@ -333,7 +333,7 @@ sitemap:
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
             <a href="{{ "/team/biography/#fei_wang" | absolute_url }}">
-              <img class="centered-and-cropped" src="/team/photos/stats.png">
+              <img class="centered-and-cropped" src="/team/photos/mol_fei.png">
             </a>
           </div>
           <!-- ENDS HERE -->
