@@ -133,11 +133,11 @@ sitemap:
   <div class="text">
     <h2><strong>Andrea Guljas</strong></h2>
     <div class="content">
-      <!--img src="/team/photos/Richard_Banh.png"-->
-      <!--img src="/team/photos/HV1.png"-->
+      <img src="/team/photos/Andrea_Guljas.jpg">
+      <img src="/team/photos/mol_andrea.png">
     </div>
     <p>
-      Pending ...
+      Hello! My name is Andrea, and I’m working on my MSc in the Pomès lab. I completed my undergraduate here at UofT where I specialized in Pharmacology and Biomedical Toxicology, with a major in Neuroscience and a minor in French. My current project involved using quantum mechanics calculations and information from protein crystal structures in order to better understand &pi;-&pi; interactions between amino acids. I’ll be able to use these results to create a more effective molecular dynamics model for the phase separation of intrinsically disordered proteins. When I’m not working on my research, I love to explore new places in Toronto, read sci-fi and fantasy books, and travel.
     </p>
   </div>
 </div>

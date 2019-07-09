@@ -257,7 +257,7 @@ sitemap:
     <div class="column">
       <div class="card card-deck">
         <div class="container">
-          <img class="centered-and-cropped" src="/team/photos/default.png">
+          <img class="centered-and-cropped" src="/team/photos/Andrea_Guljas.jpg">
           <!-- OPTIONAL HOVER STUFF -->
           <div class="overlay">
             <a href="{{ "/team/biography/#andrea_guljas" | absolute_url }}">
